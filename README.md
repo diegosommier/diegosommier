@@ -12,7 +12,9 @@ My journey started with systems administration and infrastructure, and now I'm b
 
 ## 📚 Beyond technology
 
-When I'm not building systems, you'll probably find me exploring fantasy and science fiction worlds through books, comics, and stories.
+When I'm not building systems, you'll probably find me exploring fantasy and science fiction worlds through books, comics, and video games.
+
+I enjoy discovering new stories, worlds, and ideas — whether they're written in a book, drawn in a comic, or built inside a game.
 
 ---
 
