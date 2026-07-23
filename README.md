@@ -13,11 +13,11 @@ My journey started with systems administration and infrastructure, and now I'm b
 ## 🏆 Milestones
 
 <a href="https://learn.microsoft.com/es-es/users/sommy/credentials/1d127efc53a85682">
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-AZ--900%20Azure%20Fundamentals-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-0078D4?logo=microsoftazure&logoColor=white" />
 </a>
 
 <a href="https://learn.microsoft.com/es-es/credentials/certifications/mta-networking-fundamentals/?sharingId=B2E70E6EBA3D2C81">
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Networking%20Fundamentals-0078D4?logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Technology%20Associate-Networking%20Fundamentals-0078D4?logo=microsoft&logoColor=white" />
 </a>
 
 ## 📖 Stories beyond code
