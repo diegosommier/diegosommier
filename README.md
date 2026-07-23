@@ -17,7 +17,7 @@ My journey started with systems administration and infrastructure, and now I'm b
 </a>
 
 <a href="https://learn.microsoft.com/es-es/credentials/certifications/mta-networking-fundamentals/?sharingId=B2E70E6EBA3D2C81">
-  <img src="https://img.shields.io/badge/Microsoft%20Technology%20Associate-Networking%20Fundamentals-5E5E5E?logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Technology%20Associate-Networking%20Fundamentals-00A4EF?logo=microsoft&logoColor=white" />
 </a>
 
 ## 📖 Stories beyond code
