@@ -18,7 +18,7 @@ I enjoy discovering new stories, worlds, and ideas — whether they're written i
 
 ## 🎨 Credits
 
-Avatar artwork forged by [@roquec]([https://github.com/USERNAME](https://github.com/roquec)).
+Avatar artwork forged by [@roquec](https://github.com/roquec).
 
 ---
 
