@@ -16,6 +16,10 @@ My journey started with systems administration and infrastructure, and now I'm b
   <img src="https://img.shields.io/badge/Microsoft%20Certified-AZ--900%20Azure%20Fundamentals-0078D4?logo=microsoftazure&logoColor=white" />
 </a>
 
+<a href="https://learn.microsoft.com/es-es/credentials/certifications/mta-networking-fundamentals/?sharingId=B2E70E6EBA3D2C81">
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Networking%20Fundamentals-0078D4?logo=microsoft&logoColor=white" />
+</a>
+
 ## 📖 Stories beyond code
 
 When I'm not building systems, you'll probably find me exploring fantasy and science fiction worlds through reading, watching, and playing.
