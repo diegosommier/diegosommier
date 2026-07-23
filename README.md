@@ -12,8 +12,7 @@ My journey started with systems administration and infrastructure, and now I'm b
 
 ## 🏆 Milestones
 
-- 🌐 [MTA: Networking Fundamentals](https://learn.microsoft.com/es-es/credentials/certifications/mta-networking-fundamentals/?sharingId=B2E70E6EBA3D2C81)
-- ☁️ [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/es-es/Sommy/1D127EFC53A85682?sharingId=B2E70E6EBA3D2C81)
+- ☁️ [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/es-es/Sommy/1D127EFC53A85682?sharingId=B2E70E6EBA3D2C81)
 
 ## 📖 Stories beyond code
 
