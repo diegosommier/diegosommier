@@ -10,11 +10,11 @@ My journey started with systems administration and infrastructure, and now I'm b
 - ⚙️ Exploring automation and DevOps practices
 - 🏗️ Creating projects to expand my skills
 
-## 📚 Beyond technology
+## 📖 Stories beyond code
 
-When I'm not building systems, you'll probably find me exploring fantasy and science fiction worlds through books, comics, and video games.
+When I'm not building systems, you'll probably find me exploring fantasy and science fiction worlds through reading, watching, and playing.
 
-I enjoy discovering new stories, worlds, and ideas — whether they're written in a book, drawn in a comic, or built inside a game.
+I enjoy discovering new stories, worlds, and ideas — whether they are written in books, drawn in comics, shown on a screen, or experienced through a game.
 
 ## 🎨 Credits
 
