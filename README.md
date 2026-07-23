@@ -16,6 +16,10 @@ When I'm not building systems, you'll probably find me exploring fantasy and sci
 
 I enjoy discovering new stories, worlds, and ideas — whether they're written in a book, drawn in a comic, or built inside a game.
 
+## 🎨 Credits
+
+Avatar artwork forged by [@roquec]([https://github.com/USERNAME](https://github.com/roquec)).
+
 ---
 
 *"Not all those who wander are lost."*
