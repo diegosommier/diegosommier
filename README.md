@@ -12,7 +12,9 @@ My journey started with systems administration and infrastructure, and now I'm b
 
 ## 🏆 Milestones
 
-- ☁️ [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/es-es/Sommy/1D127EFC53A85682?sharingId=B2E70E6EBA3D2C81)
+<a href="https://learn.microsoft.com/es-es/users/sommy/credentials/1d127efc53a85682">
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-AZ--900%20Azure%20Fundamentals-0078D4?logo=microsoftazure&logoColor=white" />
+</a>
 
 ## 📖 Stories beyond code
 
