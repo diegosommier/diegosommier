@@ -2,12 +2,13 @@
 
 I'm Diego, an IT professional exploring the world of Cloud Architecture.
 
-My journey started with systems administration and infrastructure, and now I'm building my path towards cloud technologies, automation, and modern architectures.
+My journey started with systems administration and infrastructure, and now I'm building my path towards cloud technologies, DevOps practices, and modern architectures.
 
 ## ⚔️ Current Quest
 
 - ☁️ Expanding my knowledge of Cloud technologies
-- ⚙️ Exploring automation and DevOps practices
+- 🔐 Exploring Identity and Access Management (IAM)
+- ⚙️ Learning AWS and DevOps practices
 - 🏗️ Creating projects to expand my skills
 
 ## 🏆 Milestones
@@ -22,7 +23,7 @@ My journey started with systems administration and infrastructure, and now I'm b
 
 ## 📖 Stories beyond code
 
-When I'm not building systems, you'll probably find me exploring fantasy and science fiction worlds through reading, watching, and playing.
+When I'm not building systems, you'll probably find me exploring fantasy and science fiction worlds through books, movies, series, and video games.
 
 I enjoy discovering new stories, worlds, and ideas — whether they are written in books, drawn in comics, shown on a screen, or experienced through a game.
 
