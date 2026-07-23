@@ -6,8 +6,8 @@ My journey started with systems administration and infrastructure, and now I'm b
 
 ## ⚔️ Current Quest
 
-- ☁️ Learning and building with Cloud technologies
-- ⚙️ Exploring automation and infrastructure as code
+- ☁️ Expanding my knowledge of Cloud technologies
+- ⚙️ Exploring automation and DevOps practices
 - 🏗️ Creating projects to expand my skills
 
 ## 📚 Beyond technology
@@ -18,7 +18,7 @@ I enjoy discovering new stories, worlds, and ideas — whether they're written i
 
 ## 🎨 Credits
 
-Avatar artwork forged by [@roquec](https://github.com/roquec).
+Avatar artwork crafted by [@roquec](https://github.com/roquec).
 
 ---
 
