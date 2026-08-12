@@ -1,6 +1,6 @@
 # 👋 Welcome, traveler!
 
-I'm Diego, an IT professional exploring the world of Cloud Architecture.
+I'm Diego, an IT professional exploring the world of Cloud Administration.
 
 My journey started with systems administration and infrastructure, and now I'm building my path towards cloud technologies, DevOps practices, and modern architectures.
 
