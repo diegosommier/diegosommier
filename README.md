@@ -23,7 +23,7 @@ My journey started with Windows and Linux systems, infrastructure, virtualizatio
 <br>
 
 <img
-  src="https://img.shields.io/badge/MTA-Networking%20Fundamentals-737373"
+  src="https://img.shields.io/badge/Microsoft%20Technology%20Associate-Networking%20Fundamentals-737373"
   alt="Microsoft Technology Associate: Networking Fundamentals"
 />
 
