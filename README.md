@@ -20,6 +20,13 @@ My journey started with Windows and Linux systems, infrastructure, virtualizatio
   />
 </a>
 
+<br>
+
+<img
+  src="https://img.shields.io/badge/MTA-Networking%20Fundamentals-737373"
+  alt="Microsoft Technology Associate: Networking Fundamentals"
+/>
+
 ## 📖 Stories beyond code
 
 When I'm not building systems, you'll probably find me exploring fantasy and science fiction worlds through books, comics, movies, series, and video games.
@@ -32,4 +39,4 @@ Avatar artwork crafted by [@roquec](https://github.com/roquec).
 
 ---
 
-*"Not all those who wander are lost."*
+*"The best is just to come."*
