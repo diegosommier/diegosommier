@@ -35,7 +35,7 @@ I enjoy discovering new stories, worlds, and ideas — whether they are written 
 
 ## 🎨 Credits
 
-Avatar artwork crafted by [@roquec](https://github.com/roquec).
+Avatar artwork crafted by [@roquec](https://roquec.com).
 
 ---
 
