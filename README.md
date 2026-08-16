@@ -39,4 +39,4 @@ Avatar artwork crafted by [@roquec](https://roquec.com).
 
 ---
 
-*"The best is just to come."*
+*"The best is yet to come."*
