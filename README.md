@@ -6,10 +6,10 @@ My journey started with Windows and Linux systems, infrastructure, virtualizatio
 
 ## ⚔️ Current Quest
 
-- ☁️ Expanding my knowledge of Azure and AWS
-- 🔐 Deepening my knowledge of Identity and Access Management (IAM)
-- ⚙️ Learning DevOps, automation, and cloud practices
-- 🏗️ Building hands-on projects to turn knowledge into experience
+* ☁️ Expanding my knowledge of Azure and AWS
+* 🔐 Deepening my knowledge of Identity and Access Management (IAM)
+* ⚙️ Learning DevOps, automation, and cloud practices
+* 🏗️ Building hands-on projects to turn knowledge into experience
 
 ## 🏆 Milestones
 
@@ -22,9 +22,18 @@ My journey started with Windows and Linux systems, infrastructure, virtualizatio
 
 <br>
 
+<a href="https://www.credly.com/badges/39b85bae-53e3-4e65-8417-031702a4bc79/public_url">
+  <img
+    src="https://img.shields.io/badge/AWS%20Cloud%20Quest-Cloud%20Practitioner-232F3E?logo=amazonaws&logoColor=white"
+    alt="AWS Cloud Quest: Cloud Practitioner - Training Badge"
+  />
+</a>
+
+<br>
+
 <img
-  src="https://img.shields.io/badge/Microsoft%20Technology%20Associate-Networking%20Fundamentals-737373"
-  alt="Microsoft Technology Associate: Networking Fundamentals"
+src="https://img.shields.io/badge/Microsoft%20Technology%20Associate-Networking%20Fundamentals-737373"
+alt="Microsoft Technology Associate: Networking Fundamentals"
 />
 
 ## 📖 Stories beyond code
