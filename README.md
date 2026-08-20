@@ -16,7 +16,7 @@ My journey started with Windows and Linux systems, infrastructure, virtualizatio
 <a href="https://learn.microsoft.com/es-es/users/sommy/credentials/1d127efc53a85682">
   <img
     src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-0078D4?logo=microsoftazure&logoColor=white"
-    alt="Microsoft Certified: Azure Fundamentals (AZ-900)"
+    alt="Microsoft Certified: Azure Fundamentals"
   />
 </a>
 
@@ -32,8 +32,8 @@ My journey started with Windows and Linux systems, infrastructure, virtualizatio
 <br>
 
 <img
-src="https://img.shields.io/badge/Microsoft%20Technology%20Associate-Networking%20Fundamentals-737373"
-alt="Microsoft Technology Associate: Networking Fundamentals"
+  src="https://img.shields.io/badge/MTA-Networking%20Fundamentals-737373"
+  alt="MTA: Networking Fundamentals"
 />
 
 ## 📖 Stories beyond code
