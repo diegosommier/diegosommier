@@ -24,7 +24,7 @@ My journey started with Windows and Linux systems, infrastructure, virtualizatio
 
 <a href="https://www.credly.com/badges/39b85bae-53e3-4e65-8417-031702a4bc79/public_url">
   <img
-    src="https://img.shields.io/badge/AWS%20Cloud%20Quest%3A%20Cloud%20Practitioner%20-%20Training%20Badge-232F3E?logo=amazonaws&logoColor=white"
+    src="https://img.shields.io/badge/AWS%20Cloud%20Quest-Cloud%20Practitioner%20-%20Training%20Badge-232F3E?logo=amazonaws&logoColor=white"
     alt="AWS Cloud Quest: Cloud Practitioner - Training Badge"
   />
 </a>
