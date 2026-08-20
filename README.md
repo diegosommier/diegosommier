@@ -13,7 +13,7 @@ My journey started with Windows and Linux systems, infrastructure, virtualizatio
 
 ## 🏆 Milestones
 
-<a href="https://learn.microsoft.com/es-es/users/sommy/credentials/1d127efc53a85682">
+<a href="https://learn.microsoft.com/en-gb/users/sommy/credentials/1d127efc53a85682">
   <img
     src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-0078D4?logo=microsoftazure&logoColor=white"
     alt="Microsoft Certified: Azure Fundamentals"
